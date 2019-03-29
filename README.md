@@ -4,7 +4,7 @@
 
 **Purpose:** Create a random board generator for the Settlers of Catan board game. 
 
-**Background:** In the base game, there are four sheep (lime green), four wheat (yellow), four wood (dark green), three ore (grey), three brick (red), and one desert (baige). The Number tiles are 2,3,3,4,4,5,5,6,6,8,8,9,9,10,10,11,11,12. Every tile will get a random number expect for the desert. Below are screen shots of the two seperate random board generators that I created. One was created using QTGui and the other was formulated in html. Both are python scripts with the same logic. 
+**Background:** In the base game, there are four sheep (lime green), four wheat (yellow), four wood (dark green), three ore (grey), three brick (red), and one desert (baige). The number tiles are 2,3,3,4,4,5,5,6,6,8,8,9,9,10,10,11,11,12. Every tile will get a random number expect for the desert. Below are screen shots of the two seperate random board generators that I created. One was created using QTGui and the other was formulated in html. Both are python scripts with the same logic. 
 
 # Catan Gui
 
